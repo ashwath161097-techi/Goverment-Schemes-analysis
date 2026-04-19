@@ -1,13 +1,15 @@
-## Project Overview
-This project analyzes groundwater level changes across India using CGWB data.
+## Project: Government Scheme Outlay Analysis
 
-## Features
-- Data cleaning using Pandas
-- Feature engineering (categorical columns)
-- Water level trend classification
-- Seasonal analysis
+### Overview
+This project analyzes budget allocation across major government schemes.
 
-## Tech Stack
+### Key Features
+- Data preprocessing using Pandas
+- Budget categorization (Low → Very High)
+- Growth trend analysis
+- Sector-wise classification
+
+### Tech Stack
 - Python
 - Pandas
 - NumPy
